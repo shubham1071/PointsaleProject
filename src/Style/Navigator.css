@@ -1,0 +1,30 @@
+
+.header-left{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 40px;
+    overflow: hidden;
+    background-color: #001a33;
+    width: 100vw;
+    position: relative;
+    
+}
+
+.navlink {
+    display: block;
+    color: white;
+    font-size:16px;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: 500;
+    
+}
+.navlink:hover{
+    font-size: 16.5px;
+    color: #1aa3ff;
+}
+.imageStyle{
+    height: 50px;
+    width: 110px;
+}
